@@ -17,4 +17,4 @@ Hi! My name is Alicia!
 * Junior
 * Senior
 
-`alicia alicia alicia`
+`alicia is in cse15l 8am class`
