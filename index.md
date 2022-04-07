@@ -1,20 +1,20 @@
 Hi! My name is Alicia!
 
 # ALICIA DANIELLE
-## seventh college
+## Seventh College
 
-*italic: cse15l meeting #2*
+*CSE 15L*
 
-**bold: cse15l meeting #2**
+**meeting #2**
 
-[Link to cse15L syllabus](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule)
+[Link to the cse15L syllabus](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule)
 
-![Image](https://picsum.photos/seed/picsum/200/300)
+![Image](https://picsum.photos/seed/picsum/200/100)
 
 > UCSD
-
 * Freshman
 * Sophomore
 * Junior
 * Senior
 
+`alicia alicia alicia`
