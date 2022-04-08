@@ -78,7 +78,7 @@ Run the *ls* command on the terminal and you will see the file you just previous
 
 > ## Part 5: Setting an SSH Key
 
-An `ssh key` is useful so that you do not need to enter your password when you run the `ssh` or scp` commands. Thus, making it more efficient and less time consuming. Here below are the commands or things that you should follow/see to set the `ssh key`:
+An `ssh key` is useful so that you do not need to enter your password when you run the `ssh` or `scp` commands. Thus, making it more efficient and less time consuming. Here below are the commands or things that you should follow/see to set the `ssh key`:
 
 ***(on your computer)**
 ```
