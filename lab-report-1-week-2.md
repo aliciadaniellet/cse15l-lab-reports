@@ -23,7 +23,8 @@ Here are a few steps that you can take to connect your computer to a remote comp
 2. Look up for your CSE15L course-specific account through this [link](https://sdacs.ucsd.edu/~icc/index.php). Take note of your course-specific account and password.
 
 3. Go to your VScode and open a new terminal. Insert this command, but replace the zzz by the letters provided in your course-specific account: 
-    ssh cs15lsp22zzz@ieng6.ucsd.edu
+    
+    ```ssh cs15lsp22zzz@ieng6.ucsd.edu```
 
 4. After entering the command above, you will receive a message like this:
 
