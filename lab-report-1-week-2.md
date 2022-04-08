@@ -3,7 +3,7 @@
 ## ‘How to log into a course-specific account on ieng6’
 
 
->Part 1: Installing VS Code
+> ## Part 1: Installing VS Code
 
 Head to this [link](https://code.visualstudio.com/) and follow the guidelines on how to install Visual Studio Code according to the operating system your computer is using (ex. MacOS, Windows). Once you have installed it properly, it should look like the screenshot below when you open the VScode application. 
 
@@ -11,7 +11,7 @@ Head to this [link](https://code.visualstudio.com/) and follow the guidelines on
 
 ---
 
->Part 2: Remote Connectivity
+> ## Part 2: Remote Connectivity
 
 Remotely connecting means connecting your computer(*the client*) to a remote computer(*the server*) where you can upload and do your work there, whilst being in any location. This is an important concept because in many companies, remote connectivity allows employees to access important files from a remote computer in whichever location they are. Thus, working becomes more efficient as it is easily accessible.
 
@@ -41,7 +41,7 @@ Here are a few steps that you can take to connect your computer to a remote comp
 
 ---
 
->Part 3: Trying Some Commands
+> ## Part 3: Trying Some Commands
 
 You can now try running some commands as you are already logged in! Here are some common useful commands that you can try:
 
@@ -58,7 +58,7 @@ There are still many other commands that you can use, but these are just a few e
 
 ---
 
->Part 4: Moving files with scp
+> ## Part 4: Moving files with scp
 
 The most important thing in working remotely is to be able to copy your files back and forth between your computer and the remote computers. The scp command is useful to copy your files from your computer to a remote computer. Here is the command that you can use to copy your file to the remote computer, you can just change ‘filename.java’ to the name of the file you want to copy:
 ```
@@ -74,7 +74,7 @@ Run the *ls* command on the terminal and you will see the file you just previous
 
 ---
 
->Part 5: Setting an SSH Key
+> ## Part 5: Setting an SSH Key
 
 An SSH key is useful so that you do not need to enter your password when you run the ssh or scp commands. Thus, making it more efficient and less time consuming. Here below are the commands or things that you should follow/see to set the SSH key:
 
@@ -126,7 +126,7 @@ Once you complete these steps, you do not need to enter a password again when ru
 
  ---
 
->Part 6: Optimizing Remote Running
+> ## Part 6: Optimizing Remote Running
 
 Here are some hints on the commands that can make your remote running more efficient!
 1. You can use semicolons to run multiple commands on the same line.
