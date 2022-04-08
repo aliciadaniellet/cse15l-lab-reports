@@ -123,3 +123,6 @@ Here are some hints on the commands that can make your remote running more effic
 1. You can use semicolons to run multiple commands on the same line.
 2. Press the up-arrow button to recall the last command.
 3. You can add a command in quotes(“”) at the end of the ssh command to directly run it on the remote computer.
+
+---
+
