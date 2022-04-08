@@ -135,6 +135,7 @@ Here are some hints on the commands that can make your remote running more effic
 3. You can add a command in quotes(“”) at the end of the ssh command to directly run it on the remote computer.
 
 <img width="500" alt="Screen Shot 2022-04-07 at 23 24 04" src="https://user-images.githubusercontent.com/86458122/162385622-c6e9ded5-1d1d-481b-a915-31c3a5198d95.png">
+
 <img width="500" alt="Screen Shot 2022-04-07 at 23 28 49" src="https://user-images.githubusercontent.com/86458122/162385631-73add64f-647f-42bf-91ef-46bc43d08e96.png">
 
 
