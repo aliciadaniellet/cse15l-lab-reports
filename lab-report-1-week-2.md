@@ -7,7 +7,7 @@
 
 Head to this [link](https://code.visualstudio.com/) and follow the guidelines on how to install Visual Studio Code according to the operating system your computer is using (ex. MacOS, Windows). Once you have installed it properly, it should look like the screenshot below when you open the VScode application. 
 
-<img width="1080" alt="Screen Shot 2022-03-31 at 08 25 43" src="https://user-images.githubusercontent.com/86458122/162385267-f4e720a2-ac9e-444e-a53b-b16e520dd2d7.png">
+<img width="500" alt="Screen Shot 2022-03-31 at 08 25 43" src="https://user-images.githubusercontent.com/86458122/162385267-f4e720a2-ac9e-444e-a53b-b16e520dd2d7.png">
 
 ---
 
@@ -36,7 +36,7 @@ Here are a few steps that you can take to connect your computer to a remote comp
 
 5. Answer ‘**yes**’ and press enter to the question above. You will then be asked to enter your password. Insert your **password** (your password will now show) and press **enter**. You are now logged in to the system. It will show something like the screenshot below (this example does not have a yes/no question because that only happens during your first time logging in):
 
-<img width="671" alt="Screen Shot 2022-03-31 at 08 28 36" src="https://user-images.githubusercontent.com/86458122/162385347-0cdf9b6c-83d2-43ea-97d7-87841fece306.png">
+<img width="500" alt="Screen Shot 2022-03-31 at 08 28 36" src="https://user-images.githubusercontent.com/86458122/162385347-0cdf9b6c-83d2-43ea-97d7-87841fece306.png">
 
 
 ---
@@ -54,7 +54,7 @@ You can now try running some commands as you are already logged in! Here are som
 
 There are still many other commands that you can use, but these are just a few examples that we usually use. Take a look at what happens when you run the different commands. Here below is a screenshot of what I see when I run those commands on my account:
 
-<img width="621" alt="Screen Shot 2022-03-31 at 08 40 17" src="https://user-images.githubusercontent.com/86458122/162385472-1bd7f25b-7008-4aa6-a50a-5053d5f357d5.png">
+<img width="500" alt="Screen Shot 2022-03-31 at 08 40 17" src="https://user-images.githubusercontent.com/86458122/162385472-1bd7f25b-7008-4aa6-a50a-5053d5f357d5.png">
 
 ---
 
@@ -68,8 +68,8 @@ Don’t be shocked if you’re asked to enter a password, just enter the same pa
 
 Run the *ls* command on the terminal and you will see the file you just previously copied if you run it correctly. Here below are screenshots of what I see when I copy a file called WhereAmI.java, and that I can run the javac and java commands once the file is copied:
 
-<img width="519" alt="Screen Shot 2022-03-31 at 09 01 00" src="https://user-images.githubusercontent.com/86458122/162385528-059ca1da-b69f-46ea-94a4-512e99bf73d3.png">
-<img width="355" alt="Screen Shot 2022-03-31 at 09 01 16" src="https://user-images.githubusercontent.com/86458122/162385535-ce1f22b4-b908-4fce-bd1a-48d30f795a9e.png">
+<img width="500" alt="Screen Shot 2022-03-31 at 09 01 00" src="https://user-images.githubusercontent.com/86458122/162385528-059ca1da-b69f-46ea-94a4-512e99bf73d3.png">
+<img width="500" alt="Screen Shot 2022-03-31 at 09 01 16" src="https://user-images.githubusercontent.com/86458122/162385535-ce1f22b4-b908-4fce-bd1a-48d30f795a9e.png">
 
 
 ---
@@ -121,7 +121,7 @@ $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zzz@ieng6.ucsd.edu:~/.ssh/auth
 
 Once you complete these steps, you do not need to enter a password again when running ssh or scp commands, just like the screenshot below.
 
-<img width="560" alt="Screen Shot 2022-04-07 at 23 11 50" src="https://user-images.githubusercontent.com/86458122/162385598-1cf9954a-c4c4-494d-b67d-9667155b49c5.png">
+<img width="500" alt="Screen Shot 2022-04-07 at 23 11 50" src="https://user-images.githubusercontent.com/86458122/162385598-1cf9954a-c4c4-494d-b67d-9667155b49c5.png">
 
 
  ---
@@ -133,7 +133,7 @@ Here are some hints on the commands that can make your remote running more effic
 2. Press the up-arrow button to recall the last command.
 3. You can add a command in quotes(“”) at the end of the ssh command to directly run it on the remote computer.
 
-<img width="621" alt="Screen Shot 2022-04-07 at 23 24 04" src="https://user-images.githubusercontent.com/86458122/162385622-c6e9ded5-1d1d-481b-a915-31c3a5198d95.png">
-<img width="603" alt="Screen Shot 2022-04-07 at 23 28 49" src="https://user-images.githubusercontent.com/86458122/162385631-73add64f-647f-42bf-91ef-46bc43d08e96.png">
+<img width="500" alt="Screen Shot 2022-04-07 at 23 24 04" src="https://user-images.githubusercontent.com/86458122/162385622-c6e9ded5-1d1d-481b-a915-31c3a5198d95.png">
+<img width="500" alt="Screen Shot 2022-04-07 at 23 28 49" src="https://user-images.githubusercontent.com/86458122/162385631-73add64f-647f-42bf-91ef-46bc43d08e96.png">
 
 
