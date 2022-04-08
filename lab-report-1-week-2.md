@@ -61,13 +61,13 @@ There are still many other commands that you can use, but these are just a few e
 
 > ## Part 4: Moving files with scp
 
-The most important thing in working remotely is to be able to copy your files back and forth between your computer and the remote computers. The scp command is useful to copy your files from your computer to a remote computer. Here is the command that you can use to copy your file to the remote computer, you can just change ‘filename.java’ to the name of the file you want to copy:
+The most important thing in working remotely is to be able to copy your files back and forth between your computer and the remote computers. The `scp` command is useful to copy your files from your computer to a remote computer. Here is the command that you can use to copy your file to the remote computer, you can just change ‘filename.java’ to the name of the file you want to copy:
 ```
 scp filename.java cs15lsp22zz@ieng6.ucsd.edu:~/
 ```
-Don’t be shocked if you’re asked to enter a password, just enter the same password that you use for the ssh. After this, login back to your course-specific account using the ssh command which I have explained in **Part 2**. 
+Don’t be shocked if you’re asked to enter a password, just enter the same password that you use for the `ssh`. After this, login back to your course-specific account using the ssh command which I have explained in **Part 2**. 
 
-Run the *ls* command on the terminal and you will see the file you just previously copied if you run it correctly. Here below are screenshots of what I see when I copy a file called WhereAmI.java, and that I can run the javac and java commands once the file is copied:
+Run the *ls* command on the terminal and you will see the file you just previously copied if you run it correctly. Here below are screenshots of what I see when I copy a file called WhereAmI.java, and that I can run the *javac* and *java* commands once the file is copied:
 
 <img width="500" alt="Screen Shot 2022-03-31 at 09 01 00" src="https://user-images.githubusercontent.com/86458122/162385528-059ca1da-b69f-46ea-94a4-512e99bf73d3.png">
 <img width="500" alt="Screen Shot 2022-03-31 at 09 01 16" src="https://user-images.githubusercontent.com/86458122/162385535-ce1f22b4-b908-4fce-bd1a-48d30f795a9e.png">
@@ -77,7 +77,7 @@ Run the *ls* command on the terminal and you will see the file you just previous
 
 > ## Part 5: Setting an SSH Key
 
-An SSH key is useful so that you do not need to enter your password when you run the ssh or scp commands. Thus, making it more efficient and less time consuming. Here below are the commands or things that you should follow/see to set the SSH key:
+An `ssh key` is useful so that you do not need to enter your password when you run the `ssh` or scp` commands. Thus, making it more efficient and less time consuming. Here below are the commands or things that you should follow/see to set the `ssh key`:
 
 ***(on your computer)**
 ```
@@ -120,7 +120,7 @@ $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zzz@ieng6.ucsd.edu:~/.ssh/auth
 # You use your username and the path you saw in the command above
 ```
 
-Once you complete these steps, you do not need to enter a password again when running ssh or scp commands, just like the screenshot below.
+Once you complete these steps, you do not need to enter a password again when running `ssh` or `scp` commands, just like the screenshot below.
 
 <img width="500" alt="Screen Shot 2022-04-07 at 23 11 50" src="https://user-images.githubusercontent.com/86458122/162385598-1cf9954a-c4c4-494d-b67d-9667155b49c5.png">
 
@@ -132,7 +132,7 @@ Once you complete these steps, you do not need to enter a password again when ru
 Here are some hints on the commands that can make your remote running more efficient!
 1. You can use semicolons to run multiple commands on the same line.
 2. Press the up-arrow button to recall the last command.
-3. You can add a command in quotes(“”) at the end of the ssh command to directly run it on the remote computer.
+3. You can add a command in quotes(“”) at the end of the `ssh` command to directly run it on the remote computer.
 
 <img width="500" alt="Screen Shot 2022-04-07 at 23 24 04" src="https://user-images.githubusercontent.com/86458122/162385622-c6e9ded5-1d1d-481b-a915-31c3a5198d95.png">
 
