@@ -1,20 +1,11 @@
-Hi! My name is Alicia!
+# Alicia Danielle's Lab Report
+## *CSE 15L*
 
-# ALICIA DANIELLE
-## Seventh College
+[Syllabus](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule)
 
-*CSE 15L*
+**Lab Report 1 ->**
+[Lab1](https://aliciadaniellet.github.io/cse15l-lab-reports/lab-report-1-week-2)
 
-**meeting #2**
-
-[Link to the cse15L syllabus](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule)
+**Lab Report 2**
 
 ![Image](https://picsum.photos/seed/picsum/200/100)
-
-> UCSD
-* Freshman
-* Sophomore
-* Junior
-* Senior
-
-`alicia danielle is in cse15l 8am class`
