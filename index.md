@@ -1,4 +1,4 @@
-# Alicia Danielle's Lab Report
+# Alicia Danielle's Lab Reports
 ## *CSE 15L*
 
 [Syllabus](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule)
