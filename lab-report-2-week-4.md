@@ -14,6 +14,7 @@ Symptom discovered by looking at the output of running the failing version of th
 Conclusion: 
 The result is an OutOfMemoryError for the failing version of the file because the file will continue to loop until it runs out of memory to search for the next '['. We discovered that we did not use the proper markdown syntax for the link, thus we corrected the markdown syntax and the code runs correctly in the terminal. 
 
+---
 
 > ## Example 2: A File with Blank Line
 <img width="1140" alt="Screen Shot 2022-04-24 at 04 50 34" src="https://user-images.githubusercontent.com/86458122/164975202-743cf093-000a-45d5-b0f2-cefcba8e8d6a.png">
@@ -26,6 +27,7 @@ Symptom discovered by looking at the output of running the failing version of th
 Conclusion: 
 The result is an OutOfMemoryError for the failing version of the file because the file will continue to loop until it runs out of memory to search for the next '['. We discovered that there is one extra line which is empty at the end of the file, thus we deleted the line and the code runs correctly in the terminal. 
 
+ ---
 
 > ## Example 3: A File with No Links
 <img width="1260" alt="Screen Shot 2022-04-24 at 05 06 50" src="https://user-images.githubusercontent.com/86458122/164975639-75e56752-08fc-4272-82fa-c5c2c3123adc.png">
