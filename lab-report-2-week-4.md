@@ -3,10 +3,9 @@
 
 ---
 > ## Example 1: A File with Only Image Link
-
+<img width="1237" alt="Screen Shot 2022-04-28 at 22 48 53" src="https://user-images.githubusercontent.com/86458122/165891230-71d59605-a2e2-401c-9e47-97432b5373b8.png">
 
 [Link](https://github.com/aliciadaniellet/cse15l-lab-reports/files/8549534/test-file2.md) to test file
-<img width="1237" alt="Screen Shot 2022-04-28 at 22 48 53" src="https://user-images.githubusercontent.com/86458122/165891230-71d59605-a2e2-401c-9e47-97432b5373b8.png">
 
 Symptom discovered by looking at the output of running the failing version of the file at the command line:
 <img width="798" alt="Screen Shot 2022-04-28 at 22 36 47" src="https://user-images.githubusercontent.com/86458122/165891142-ded83e77-e0a0-4f36-8c4f-0c94a54bd9df.png">
