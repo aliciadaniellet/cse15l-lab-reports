@@ -3,7 +3,7 @@
 
 ---
 
-> ## Example 1: A File with Improper Use of Markdown Syntax
+> ## Example 1: A File with Only Image Link
 <img width="1142" alt="Screen Shot 2022-04-24 at 04 07 49" src="https://user-images.githubusercontent.com/86458122/164973530-f4efd5c1-6562-4fda-981f-66170a7cf36d.png">
 
 [Link](https://github.com/aliciadaniellet/cse15l-lab-reports/files/8549534/test-file2.md) to test file
