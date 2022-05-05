@@ -51,4 +51,5 @@ Logging in to my ieng6 account to compile and run tests from my repository:
 <img width="1037" alt="Screen Shot 2022-05-05 at 14 24 25" src="https://user-images.githubusercontent.com/86458122/167042807-6438daf9-5e0f-4771-a1ec-43d2dd86af6f.png">
 
 
-Copying the whole directory and running the tests in one line: 
+Copying the whole directory and running the tests in just using one line: 
+<img width="895" alt="Screen Shot 2022-05-05 at 16 50 41" src="https://user-images.githubusercontent.com/86458122/167044869-79cd5b70-6bcb-4a76-a1c2-fdc52d0c0eb7.png">
