@@ -37,7 +37,7 @@ Location of where I store my **public key** in my user account:
 Location of where I store my **private key** in my user account:
 (You can see that I have two key-pairs public/private keys in this case as private keys is similar to the public key but without *.pub*)
 
-![Image](<https://user-images.githubusercontent.com/86458122/167042576-a1fb920f-ccc6-4ba6-97c6-422f1b5a680d.png)
+![Image](https://user-images.githubusercontent.com/86458122/167042576-a1fb920f-ccc6-4ba6-97c6-422f1b5a680d.png)
 
 Git commands to commit and push a change while logged into my ieng6 account:
 (In this case, I am trying to make a new file calles a.txt)
