@@ -11,6 +11,7 @@ Link to the test files:
 
 ---
 > ## Test file 1 : 494.md
+
 My output:
 
 ![image](https://user-images.githubusercontent.com/86458122/171515128-359562d2-f3d7-4fdf-a670-5e129e3648c5.png)
@@ -36,6 +37,7 @@ Description of bug and how to fix it: I believe that the bug comes from the fact
 ---
 
 > ## Test file 2 : 519.md
+
 My output:
 
 ![image](https://user-images.githubusercontent.com/86458122/171516706-166ee210-4a79-4844-aed4-c8aafd98c4ae.png)
