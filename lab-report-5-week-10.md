@@ -1,6 +1,6 @@
 # Lab Report 5
 
-I found the tests with different results by searching it through manually on the test-files folder. 
+I found the tests with different results by searching it through manually in the test-files folder. 
 
 Link to the test files:
 > 494.md
